@@ -1,0 +1,17 @@
+{
+    "name": "atom-knockout",
+    "version": "0.0.0",
+    "description": "KnockoutJS support for Atom",
+    "engines": {
+        "atom": "*"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ado20/atom-knockout.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Ado20/atom-knockout/issues"
+    },
+    "license": "GNU GPL"
+}
